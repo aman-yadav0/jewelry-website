@@ -1,4 +1,4 @@
-# Veloura Jewellery
+# AurenInda Jewellery
 
 Premium minimal jewellery website built with React and designed for GitHub Pages deployment.
 
