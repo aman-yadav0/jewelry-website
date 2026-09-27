@@ -1,4 +1,4 @@
-# AurenInda Jewellery
+# AurenIndia Jewellery
 
 Premium minimal jewellery website built with React and designed for GitHub Pages deployment.
 
